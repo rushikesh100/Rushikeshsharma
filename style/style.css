@@ -1,0 +1,230 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(16,15,22);
+    color: white;
+}
+/* INTRODUCTION STARTS */
+
+.intro-list
+{
+    display: block;
+}
+.intro-ul
+{
+    margin-top: 47px;
+    margin-left: -38px;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+.intro-container
+{
+    margin-bottom: 188px;
+}
+.intro
+{
+    margin-top: 80px;
+}
+.hello{
+    margin-bottom: 29px;
+}
+.hello-span
+{
+    border-bottom-left-radius: 0px;
+    background-color: rgb(168, 168, 10);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 10px 30px;
+  
+}
+
+/* INTRODUCTION ENDS */
+
+/* ABOUT US */
+.resume-boy
+{
+    width: 489px;
+    height: 334px;
+}
+.About-heading
+{
+    font-size: 35px;
+}
+.text
+{
+    margin-top: 31px;
+    margin-left: 77px;
+}
+ul
+{
+    margin-left: 39px;
+}
+ ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 6px;
+    border-radius: 4px ;
+    margin-bottom: 10px;
+    padding: 4px 0px;
+}
+.talent
+{
+    border: 1px solid #ffa500;
+    padding: 0px 9px 4px 7px;
+    border-radius: 6px;
+}
+.img-border
+{
+    height: 423px;
+    width: 422px;
+    border-radius: 50%;
+    border: 20px solid rgba(0, 0, 0, 0.9);
+    
+}
+.profile
+{
+    width: 384px;
+    height: 384px;
+    border: 20px solid rgba(0, 0, 0, 0.4);
+    border-radius: 50%;
+}
+/* CARDS */
+
+.cards
+{
+    background: rgba( 30, 30, 37, 1.00 );
+    box-shadow: 0 8px 32px 0 rgb(11,10,16);
+    backdrop-filter: blur( 11.5px );
+    -webkit-backdrop-filter: blur( 11.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 30px 0px 0px 17px;
+    height: 253px;
+    width: 348px;
+}
+.talent-p
+{
+    margin-top: 32px;
+}
+#cards-container
+{
+    margin-top: 188px;
+}
+
+/* CONTACT STARTA*/
+.contact-heading
+{
+    text-align: center;
+}
+
+/* CONTACT ENDS */
+
+.icon-section
+{
+    font-size: 30px;
+    color: blue;
+}
+#cards-contact
+{
+    margin-top: 177px;
+}
+/* FORM */
+
+ textarea
+{
+    margin-top: 26px;
+    margin-bottom: 54px;
+    height: 209px;
+    width: 481px;
+}
+.email
+{
+    width: 481px;
+}
+
+.text_form
+{
+    margin-left: -2px;
+    width: 239px;
+}
+
+.input{
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    height: 50px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    padding: 0px 0px 0px 12px;
+    margin-bottom: 36px;
+} 
+.input_textarea
+{
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    padding: 0px 0px 0px 12px;
+    margin-left: 8px;
+}
+form
+{
+    margin-top: 91px;
+}
+button{
+    width: 481px;
+    border-radius: 23px;
+    background-color: transparent;
+    border-color: transparent;
+    padding: 0px 0px 0px 12px;
+    color: white;
+    border: 1px solid #ced4da;
+    height: 48px;
+    background-color: #ffa500;
+}
+
+/* SKILL SECTION STARTS */
+.skillbar
+{
+    position: relative;
+    display: block;
+    margin-bottom: 53px;
+    width: 100%;
+    background: #e2e1e2;
+    height: 7px;
+}
+.skillbar-title
+{
+    position: absolute;
+    top: -27px;
+    left: 0;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 27px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #e4eaea;
+}
+.skillbar-bar
+{
+    height: 7px;
+}
+.wd, .com, .leader, .social {
+    background-color: #0288D1;
+    
+}
+.skill-bar-percent {
+    position: absolute;
+    top: -24px;
+    font-size: 14px;
+    color: #796f7a;
+    margin-left: -20px;
+}
