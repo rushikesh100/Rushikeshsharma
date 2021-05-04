@@ -43,7 +43,14 @@ a
     padding: 10px 30px;
   
 }
-
+.social-section
+{
+    margin-left: -78px;
+}
+a:hover
+{
+    color: #ffa500;
+}
 /* INTRODUCTION ENDS */
 
 /* ABOUT US */
